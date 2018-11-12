@@ -2,7 +2,6 @@
 This classifier tells whether the underlying intention behind a statement is among these:
 
  'faq.application_process'
- 
  'contact.contact'
  'faq.borrow_use'
  'faq.biz_simpler'
