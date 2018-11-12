@@ -44,3 +44,4 @@ This classifier tells whether the underlying intention behind a statement is amo
  'commonQ.just_details'
  
  The intent classifier was developed for a chat bot to identify the intent behind the statement and then reply accordingly.
+ The classifier can also classify the input statements fed in Hindi-English coded SMS Lingo.
