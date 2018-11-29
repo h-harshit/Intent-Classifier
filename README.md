@@ -52,10 +52,10 @@ This classifier tells whether the underlying intention behind a statement is amo
  skte hai?"
  
  The workaround this problem was to develop a new dataset by translating the dataset in English to Hindi and then coding it in 
- SMS Lingo and then merging it with the existing dataset. But manual translation would have been a very hectic task so I took help
- of google translate which has this feature of giving translated output in SMS lingo and to automate this task I wrote a simple python
+ SMS Lingo i.e., basically transliteration, and then merging it with the existing dataset. But manual transliteration would have been a very hectic task so I took help
+ of google translate which has this feature of giving transliterated output in English and to automate this task I wrote a simple python
  script.
  
-Interestingly, this workaround improved the accuracy of the model to 95% and I also performed KFold and Stratified-KFold cross-
+Interestingly, this workaround improved the accuracy of the model to 95%. I also performed KFold and Stratified-KFold cross-
 validation to crosscheck for the stability of the model and it came out very well with around same accuracy.
  
